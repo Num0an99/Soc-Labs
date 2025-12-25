@@ -6,7 +6,7 @@ The objective of this project was to simulate a basic brute-force login scenario
 
 ## Environment
 
-- Operating System: Windows 11  
+- Operating System: Windows 11
 - Log Source: Windows Security Event Log  
 - Tools Used: Event Viewer  
 - Test Account: Local user account created for lab purposes  
